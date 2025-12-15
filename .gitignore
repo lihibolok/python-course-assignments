@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 day04/title.basics.tsv.gz
 day04/title.ratings.tsv.gz
+.DS_Store
